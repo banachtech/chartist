@@ -1,6 +1,6 @@
 # Technical Charting Application
 
-Clone the repo and activate the Python virtual environment and load the dependencies with
+Clone the repo and install the dependencies with
 
 ```bash
 pip install -r requirement.txt 

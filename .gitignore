@@ -1,0 +1,7 @@
+venv/
+venv
+.ipynb_checkpoints
+.DS_Store
+__pycache__/
+data.py
+fx_daily_EUR_USD.csv
